@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+Framework/bin/
+Framework/obj/
+packages
+Debug
+WPF/bin/
+WPF/obj/
